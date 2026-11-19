@@ -151,7 +151,6 @@ avoid nested parallel pools.
 The packaged workflows preserve the statistical and computational choices
 used in the corresponding experiments:
 
-- deterministic random seeds;
 - fixed fitting and reconstruction locations;
 - protected cross-validation manifests;
 - coordinate transformations and temporal sampling conventions;
