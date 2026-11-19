@@ -1,0 +1,2 @@
+version,preset,subsetName,nSites,nCvFolds,boundaryFactor,basisPerDimension,nFeatures,parallelUsed,requestedWorkers,actualPoolWorkers,effectiveWorkers,elapsedSeconds,allImplementationChecksPassed,convergenceFraction,nuggetFloorHitFraction,meanRankDeficientDirectionsBeforeNugget
+0.3.1-hsgp,full17_cv5,full17,289,5,4,48,2304,1,5,5,5,7219.158463,0,1,0,0

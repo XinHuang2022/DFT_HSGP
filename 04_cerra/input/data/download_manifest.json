@@ -1,0 +1,35 @@
+{
+  "source": "Copernicus Climate Data Store CERRA single-level reanalysis",
+  "dataset": "reanalysis-cerra-single-levels",
+  "dataset_doi": "10.24381/cds.622a565a",
+  "raw_grid": "Lambert conformal, 1069x1069, nominal 5.5 km",
+  "raw_netcdf_files": [
+    "raw\\extracted\\cerra_land_sea_mask_netcdf\\cerra_land_sea_mask_netcdf.nc",
+    "raw\\extracted\\cerra_surface_analysis_202012_netcdf\\cerra_surface_analysis_202012_netcdf.nc",
+    "raw\\extracted\\cerra_surface_analysis_202101_netcdf\\cerra_surface_analysis_202101_netcdf.nc",
+    "raw\\extracted\\cerra_surface_analysis_202102_netcdf\\cerra_surface_analysis_202102_netcdf.nc"
+  ],
+  "period_utc": [
+    "2020-12-01T00:00:00+00:00",
+    "2021-02-28T18:00:00+00:00"
+  ],
+  "retained_hours_utc": [
+    "00:00",
+    "06:00",
+    "12:00",
+    "18:00"
+  ],
+  "area_north_south_west_east": [
+    58.0,
+    54.0,
+    2.0,
+    6.0
+  ],
+  "selection": "unique native marine cells nearest to a 17x17 latitude-longitude target lattice",
+  "wind_component_conversion": "u=-speed*sin(direction); v=-speed*cos(direction); direction is degrees from true north",
+  "n_times": 360,
+  "n_sites": 289,
+  "n_eligible_native_marine_sites_in_region": 3701,
+  "maximum_target_to_native_distance_km": 6.875238551027093,
+  "missing_values": 0
+}

@@ -1,0 +1,3 @@
+method,nFolds,meanHsgpObjectivePerObservation,meanHsgpMinusExactObjectivePerObservation,convergenceFraction,nuggetFloorHitFraction,medianSignalVariance,medianAlphaPer100Km,medianBetaPerSixHours,medianEpsilon,medianNoiseVariance
+hsgp_eq9,5,0.0618108121944954,NaN,1,0,11.8411900927978,0.160545825313715,0.963294724765408,0.291396627383148,0.0016591998170098
+hsgp_separable,5,0.0649329571413854,NaN,1,0,8.14499980502642,0.214457082458098,1.64064674645431,1,0.00161688684606371

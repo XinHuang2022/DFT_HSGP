@@ -1,0 +1,61 @@
+foldID,check,passed
+1,training and target indices disjoint,1
+1,full predictions finite,1
+1,full predictive variances positive,1
+1,separable predictions finite,1
+1,separable predictive variances positive,1
+1,full imaginary residue controlled,1
+1,full reciprocal condition passes,1
+1,full jitter passes,1
+1,basis fixed before response fitting,1
+1,full fit remains inside audited parameter box,1
+1,separable spatial/temporal parameters remain inside audit box,0
+1,exact likelihood displacement passes when audited,1
+2,training and target indices disjoint,1
+2,full predictions finite,1
+2,full predictive variances positive,1
+2,separable predictions finite,1
+2,separable predictive variances positive,1
+2,full imaginary residue controlled,1
+2,full reciprocal condition passes,1
+2,full jitter passes,1
+2,basis fixed before response fitting,1
+2,full fit remains inside audited parameter box,1
+2,separable spatial/temporal parameters remain inside audit box,0
+2,exact likelihood displacement passes when audited,1
+3,training and target indices disjoint,1
+3,full predictions finite,1
+3,full predictive variances positive,1
+3,separable predictions finite,1
+3,separable predictive variances positive,1
+3,full imaginary residue controlled,1
+3,full reciprocal condition passes,1
+3,full jitter passes,1
+3,basis fixed before response fitting,1
+3,full fit remains inside audited parameter box,1
+3,separable spatial/temporal parameters remain inside audit box,0
+3,exact likelihood displacement passes when audited,1
+4,training and target indices disjoint,1
+4,full predictions finite,1
+4,full predictive variances positive,1
+4,separable predictions finite,1
+4,separable predictive variances positive,1
+4,full imaginary residue controlled,1
+4,full reciprocal condition passes,1
+4,full jitter passes,1
+4,basis fixed before response fitting,1
+4,full fit remains inside audited parameter box,0
+4,separable spatial/temporal parameters remain inside audit box,0
+4,exact likelihood displacement passes when audited,1
+5,training and target indices disjoint,1
+5,full predictions finite,1
+5,full predictive variances positive,1
+5,separable predictions finite,1
+5,separable predictive variances positive,1
+5,full imaginary residue controlled,1
+5,full reciprocal condition passes,1
+5,full jitter passes,1
+5,basis fixed before response fitting,1
+5,full fit remains inside audited parameter box,0
+5,separable spatial/temporal parameters remain inside audit box,0
+5,exact likelihood displacement passes when audited,1

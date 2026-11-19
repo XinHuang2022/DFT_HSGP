@@ -1,0 +1,2 @@
+method,foldID,rmse,mae,nlpd,coverage95,meanSiteCorrelation
+fixed_reference,4,1.89675415775,1.40154262972379,2.05761113014212,0.933730158730159,0.623159826974123

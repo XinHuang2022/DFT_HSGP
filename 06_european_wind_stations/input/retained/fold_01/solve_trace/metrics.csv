@@ -1,0 +1,2 @@
+method,foldID,rmse,mae,nlpd,coverage95,meanSiteCorrelation
+relaxed_solve_trace,1,2.29169945272841,1.50913291889294,2.1616512610879,0.925082671957672,0.602332307995292

@@ -1,0 +1,6 @@
+foldID,nFrequencies,maximumExactKlAtFinalRank,sameRankFrequencies,conservativeRankFrequencies,invalidLowerRankFrequencies,monotoneCorrectionValid,certificateDominatesExactRank,exactToleranceSatisfied
+1,181,0.00186162337453575,115,66,0,1,1,1
+2,181,0.00106363910678525,86,95,0,1,1,1
+3,181,0.000554663544855176,78,103,0,1,1,1
+4,181,0.00063919681253694,77,104,0,1,1,1
+5,181,0.000778790640648622,85,96,0,1,1,1

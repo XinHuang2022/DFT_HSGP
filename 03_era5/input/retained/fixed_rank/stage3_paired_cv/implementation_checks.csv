@@ -1,0 +1,61 @@
+check,passed,method,foldID
+indices disjoint,1,hsgp_J48,1
+finite predictions,1,hsgp_J48,1
+positive predictive variance,1,hsgp_J48,1
+imaginary residue controlled,1,hsgp_J48,1
+indices disjoint,1,hsgp_J48,2
+finite predictions,1,hsgp_J48,2
+positive predictive variance,1,hsgp_J48,2
+imaginary residue controlled,1,hsgp_J48,2
+indices disjoint,1,hsgp_J48,3
+finite predictions,1,hsgp_J48,3
+positive predictive variance,1,hsgp_J48,3
+imaginary residue controlled,1,hsgp_J48,3
+indices disjoint,1,hsgp_J48,4
+finite predictions,1,hsgp_J48,4
+positive predictive variance,1,hsgp_J48,4
+imaginary residue controlled,1,hsgp_J48,4
+indices disjoint,1,hsgp_J48,5
+finite predictions,1,hsgp_J48,5
+positive predictive variance,1,hsgp_J48,5
+imaginary residue controlled,1,hsgp_J48,5
+indices disjoint,1,hsgp_J32,1
+finite predictions,1,hsgp_J32,1
+positive predictive variance,1,hsgp_J32,1
+imaginary residue controlled,1,hsgp_J32,1
+indices disjoint,1,hsgp_J32,2
+finite predictions,1,hsgp_J32,2
+positive predictive variance,1,hsgp_J32,2
+imaginary residue controlled,1,hsgp_J32,2
+indices disjoint,1,hsgp_J32,3
+finite predictions,1,hsgp_J32,3
+positive predictive variance,1,hsgp_J32,3
+imaginary residue controlled,1,hsgp_J32,3
+indices disjoint,1,hsgp_J32,4
+finite predictions,1,hsgp_J32,4
+positive predictive variance,1,hsgp_J32,4
+imaginary residue controlled,1,hsgp_J32,4
+indices disjoint,1,hsgp_J32,5
+finite predictions,1,hsgp_J32,5
+positive predictive variance,1,hsgp_J32,5
+imaginary residue controlled,1,hsgp_J32,5
+indices disjoint,1,exact,1
+finite predictions,1,exact,1
+positive predictive variance,1,exact,1
+imaginary residue controlled,1,exact,1
+indices disjoint,1,exact,2
+finite predictions,1,exact,2
+positive predictive variance,1,exact,2
+imaginary residue controlled,1,exact,2
+indices disjoint,1,exact,3
+finite predictions,1,exact,3
+positive predictive variance,1,exact,3
+imaginary residue controlled,1,exact,3
+indices disjoint,1,exact,4
+finite predictions,1,exact,4
+positive predictive variance,1,exact,4
+imaginary residue controlled,1,exact,4
+indices disjoint,1,exact,5
+finite predictions,1,exact,5
+positive predictive variance,1,exact,5
+imaginary residue controlled,1,exact,5

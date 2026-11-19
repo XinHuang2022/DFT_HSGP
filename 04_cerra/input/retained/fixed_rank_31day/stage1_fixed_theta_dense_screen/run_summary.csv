@@ -1,0 +1,2 @@
+version,nTimePoints,nFullSites,nFullTrainingSites,nTestSites,nReferenceExactSites,exactReferenceRmse,exactReferenceMae,exactReferenceCoverage95,exactReferenceObjective,exactReferenceFitSeconds,parallelUsed,poolWorkers
+0.2.0,124,3701,3401,300,250,0.254465302256001,0.122591766100681,0.980456989247312,22250.6068592927,536.324246,1,4

@@ -1,0 +1,3 @@
+configurationID,nReplicateFrequencyPairs,meanFittedM,medianFittedM,minimumFittedM,maximumFittedM,proportionEqualOracle,proportionAboveOracle,proportionBelowOracle,numberUnresolved
+5,1940,195.342268041237,36,36,1024,0.952577319587629,0.0288659793814433,0.0185567010309278,0
+21,1940,225.754639175258,36,36,784,0.966494845360825,0.00721649484536083,0.0262886597938144,0

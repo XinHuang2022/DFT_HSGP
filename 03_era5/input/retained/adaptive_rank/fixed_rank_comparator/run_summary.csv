@@ -1,0 +1,2 @@
+version,nSites,nFolds,selectedJ,evaluatedJ,nTasks,parallelUsed,poolWorkers,allImplementationChecksPassed
+0.1.0,289,5,48,32;48,15,1,15,1

@@ -1,0 +1,6 @@
+clear; clc;
+result=run_ghcnh_algorithm1_audit_benchmark();
+disp(result.summary);
+disp(table(result.frequencyIndices(:)-1, ...
+    result.selectedJ(result.frequencyIndices), ...
+    'VariableNames',{'frequencyIndex','selectedJ'}));

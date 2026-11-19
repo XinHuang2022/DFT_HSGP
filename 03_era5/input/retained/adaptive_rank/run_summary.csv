@@ -1,0 +1,2 @@
+version,dataset,nSites,nFolds,elapsedSeconds,meanActualFoldSeconds,sumActualFoldSeconds,meanEquivalentFirstUseSeconds,allProfilesStabilized,nCompletedFolds,nUnstableReferenceFolds
+0.1.0,era5,289,5,9683.9568401,8775.37539,43876.87695,11060.8738038,0,5,0

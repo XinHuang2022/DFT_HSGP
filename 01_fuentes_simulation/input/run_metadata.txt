@@ -1,0 +1,11 @@
+version=0.3.0
+created_at=2026-10-22 18:13:03
+fit_regime=free_noise
+fit_engine=exact
+kl_per_fitting_site_tolerance=0.01
+candidate_J=[6 8 10 12 16 20 24 28 32 36 40]
+replicates=20
+parameter_file_sha256=B4B703B130621E8A42057DFF8ED6AFA074DA892490003B61E34B26833A8FA0BB
+prediction_file_sha256=06B0F8AAE4E57BCB14FA4CD6A41AE9874F74E9463D96B953CC2706DC4580637E
+selection_data=fitting coordinates and analytic full-rank parameter estimate; held-site responses excluded
+evaluation_data=trusted independent prediction seeds and fixed whole-site holdout

@@ -1,0 +1,2 @@
+foldID,method,maxCycles,maxEnlargedFraction,allowedEnlargements,cyclesUsed,strictStable,relaxedStop,stoppedAtCap,ruleViolationCount,exactKlViolationCount,maximumExactKlPerSiteAtFittedRanks
+3,solve_trace,3,0.05,9,2,0,1,0,1,0,0.00449280047459601

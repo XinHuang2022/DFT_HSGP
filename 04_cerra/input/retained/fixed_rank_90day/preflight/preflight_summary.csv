@@ -1,0 +1,2 @@
+version,nTimePoints,nFullSites,nTrainingSites,nTestSites,smokeM,maximumIndexX,maximumIndexY,maximumRadialFrequency,gramSeconds,gramReciprocalCondition,numericalFeatureRank,allChecksPassed
+0.2.1,360,3701,3401,300,250,13,24,8.71766314580138,0.0042925,6.13402256565798e-19,250,1

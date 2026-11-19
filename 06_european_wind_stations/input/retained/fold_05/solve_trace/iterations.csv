@@ -1,0 +1,4 @@
+cycle,fitSeconds,auditSeconds,objective,functionEvaluations,noiseVariance,exitFlag,convergenceCertified,boundaryHit,minimumJ,medianJ,maximumJ,nFrequenciesEnlarged,fractionFrequenciesEnlarged,strictStable,relaxedStop
+1,865.7082634,38.1279613,415058.351210486,253,3.16759004612014,0,0,1,8,8,45,78,0.430939226519337,0,0
+2,1145.9895114,47.4331847,411612.570341825,262,3.00491594731964,0,0,1,8,8,45,96,0.530386740331492,0,0
+3,1375.7695199,37.6336714,410192.355429075,261,2.91345493667489,0,0,1,8,12,48,0,0,1,1

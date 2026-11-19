@@ -1,0 +1,38 @@
+{
+  "source": "s3://earthmover-icechunk-era5/icechunkV2",
+  "group": "single/temporal",
+  "dataset_doi": "10.24381/cds.adbb2d47",
+  "variables": [
+    "u10",
+    "v10",
+    "lsm"
+  ],
+  "period_utc": [
+    "2021-12-01T00:00:00",
+    "2022-02-28T23:00:00"
+  ],
+  "retained_hours_utc": [
+    0,
+    6,
+    12,
+    18
+  ],
+  "area_north_south_west_east": [
+    58.0,
+    54.0,
+    2.0,
+    6.0
+  ],
+  "grid_spacing_degrees": 0.25,
+  "shape_time_latitude_longitude": [
+    360,
+    17,
+    17
+  ],
+  "n_times": 360,
+  "n_latitudes": 17,
+  "n_longitudes": 17,
+  "n_sites": 289,
+  "n_marine_sites_lsm_lt_0p5": 289,
+  "netcdf_file": "era5_north_sea_2021djf_6hourly.nc"
+}

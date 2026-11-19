@@ -1,0 +1,2 @@
+foldID,method,maxCycles,maxEnlargedFraction,allowedEnlargements,cyclesUsed,strictStable,relaxedStop,stoppedAtCap,ruleViolationCount,exactKlViolationCount,maximumExactKlPerSiteAtFittedRanks
+1,exact_kl,4,0.01,1,4,0,1,0,1,1,0.0104969947955632

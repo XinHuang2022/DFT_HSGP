@@ -1,0 +1,5 @@
+configurationID,method,maximumAbsoluteRmseDifference,maximumAbsoluteNoisyRmseDifference
+5,analytic_reference_fit,5.70377078901174e-15,5.10702591327572e-15
+5,common_rank_hsgp_fit,4.97171748214953e-13,1.58317803311547e-13
+21,analytic_reference_fit,8.60422844084496e-16,8.32667268468867e-16
+21,common_rank_hsgp_fit,1.12410081243297e-13,1.10245146345278e-13

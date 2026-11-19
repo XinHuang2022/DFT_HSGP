@@ -1,0 +1,13 @@
+{
+  "source": "existing local CERRA payloads",
+  "period_utc": [
+    "2020-12-01T00:00:00+00:00",
+    "2021-02-28T18:00:00+00:00"
+  ],
+  "n_times": 360,
+  "n_sites": 3701,
+  "selection": "all marine native cells in 54--58 N, 2--6 E",
+  "site_manifest": "site_manifest_full_native.csv",
+  "wind_matrix": "u10_full_native_time_by_site.csv",
+  "missing_values": 0
+}

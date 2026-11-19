@@ -1,0 +1,2 @@
+version,nTimePoints,nFullTrainingSites,nTestSites,allM,multistartM,nCompletedStartTasks,parallelUsed,poolWorkers
+0.2.1,360,3401,300,250;500;750;1000,1000;750,8,1,4

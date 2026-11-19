@@ -1,0 +1,4 @@
+method,nFolds,meanNllPerObservation,sdNllPerObservation,convergenceFraction,boundaryHitFraction
+hsgp_J48,5,-0.700597774035907,0.00935554954290194,1,0.2
+hsgp_J32,5,-0.595211520401061,0.00633325307043539,1,0.6
+exact,5,-0.715350490079431,0.0137193288273088,1,0.4
