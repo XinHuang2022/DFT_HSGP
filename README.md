@@ -160,9 +160,7 @@ used in the corresponding experiments:
 - retained summaries for regression checking.
 
 Preflight functions check dimensions, finite values, site ordering, fold
-assignments, and core model interfaces before a long run begins. New results
-are written to timestamped directories and do not overwrite the retained
-reference outputs.
+assignments, and core model interfaces before a long run begins. 
 
 ## Data and provenance
 
@@ -171,15 +169,4 @@ Large raw ERA5, CERRA, and station-download payloads are not duplicated. Each
 dataset folder documents the origin of its data and code in
 `DATA_PROVENANCE.md` and `PROVENANCE.md`.
 
-Before a public release, the applicable data-source attribution and
-redistribution conditions should be confirmed. A software licence and final
-citation metadata should also be added when the manuscript and archived
-repository release are available.
-
-## Citation
-
-If this code contributes to published work, please cite the manuscript
-*Temporal Fourier Likelihoods with Spatial Hilbert-Space Gaussian Process
-Approximations*. Formal BibTeX metadata will be added after the manuscript or
-archived repository release receives a persistent identifier.
 
